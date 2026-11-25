@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Data (keep datasets out of Git)
+data/raw/*
+data/cleaned/*
+data/processed/*
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
+!data/processed/.gitkeep
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+*.joblib
+checkpoints/
+
+# Outputs
+*.log
+.DS_Store
+Thumbs.db
