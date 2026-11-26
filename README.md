@@ -80,3 +80,16 @@ This is a collaborative academic project. Team members and individual contributi
 ## Project Status
 
 In progress.
+
+## Author
+
+**Mohamed Hany**
+
+Computer Science – Data Science
+
+Orange Digital Hub – Data Analysis & AI Training
+
+GitHub: [M-H26](https://github.com/M-H26)
+
+LinkedIn: [Mohamed Hany](https://www.linkedin.com/in/mohamed-hamouda06/)
+
